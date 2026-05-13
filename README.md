@@ -1,6 +1,6 @@
 # WaveSpeed
 
-Open-source, cross-platform application for running 600+ AI models — image generation, video generation, face swap, digital human, motion control, and more. Features a visual workflow editor for building AI pipelines, Featured Models with smart variant switching, and 12 free creative tools. Available for **Windows**, **macOS**, **Linux**, and **Android**.
+Open-source, cross-platform application for running 1000+ AI models — image generation, video generation, face swap, digital human, motion control, and more. Features a visual workflow editor for building AI pipelines, Featured Models with smart variant switching, and 12 free creative tools. Available for **Windows**, **macOS**, **Linux**, and **Android**.
 
 [![GitHub Release](https://img.shields.io/github/v/release/WaveSpeedAI/wavespeed-desktop?style=flat-square&label=Latest)](https://github.com/WaveSpeedAI/wavespeed-desktop/releases/latest)
 [![License](https://img.shields.io/github/license/WaveSpeedAI/wavespeed-desktop?style=flat-square)](LICENSE)
@@ -16,7 +16,7 @@ Open-source, cross-platform application for running 600+ AI models — image gen
 
 ## Android App
 
-The Android app shares the same React codebase as the desktop version, giving you access to the AI Playground, Featured Models, Creative Studio, and all 600+ models from your phone.
+The Android app shares the same React codebase as the desktop version, giving you access to the AI Playground, Featured Models, Creative Studio, and all 1000+ models from your phone.
 
 - Full AI Playground with multi-tab support and all input types including camera capture
 - Featured Models with smart variant switching

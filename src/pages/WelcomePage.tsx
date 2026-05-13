@@ -155,7 +155,7 @@ export function WelcomePage() {
         "bg-gradient-to-br from-blue-500/40 via-cyan-500/20 to-transparent",
       shapeGradient: "from-blue-500/40 to-cyan-500/30",
       href: "/models",
-      badge: "500+",
+      badge: "1000+",
     },
     {
       icon: (
